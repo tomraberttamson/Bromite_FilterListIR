@@ -53,7 +53,6 @@ log "Start generating bromite-default"
 echo "::endgroup::"
 
 # All other lists can be listed here
-filtrite bromite-extended
 filtrite adsmix
 
 echo "::group::Cleanup"
