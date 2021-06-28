@@ -4,7 +4,6 @@ https://ideone.com/plain/K452p
 https://raw.githubusercontent.com/SlashArash/adblockfa/master/adblockfa.txt
 https://raw.githubusercontent.com/farrokhi/adblock-iran/master/additional-trackers.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Sensitive%20lists/AntiPrayerTimesList.txt
-https://raw.githubusercontent.com/arapurayil/aBL/master/lists/porn_gambling_snuff/filter_list.txt
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
