@@ -6,6 +6,6 @@ See the page about [Custom Ad Block Filters](https://www.bromite.org/custom-filt
 
 This list of ad blockers is designed for Iranian and Persian language sites.
 
-Change the default filters URL from Settings -> AdBlock settings and specify a valid URL for the filters file.
+Change the default filters URL from Settings -> AdBlock settings and specify {https://github.com/tomraberttamson/Bromite_FilterListIR/releases/latest/download/bromite-edit.dat} for the filters file.
 
 Orginal Post Is [filtrite](https://github.com/tomraberttamson/filtrite).
